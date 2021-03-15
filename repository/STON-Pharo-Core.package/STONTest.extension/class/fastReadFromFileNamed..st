@@ -1,4 +1,4 @@
-utilities
+*ston-pharo-core
 fastReadFromFileNamed: path
 	^ path asFileReference
 		readStreamDo: [ :stream | 

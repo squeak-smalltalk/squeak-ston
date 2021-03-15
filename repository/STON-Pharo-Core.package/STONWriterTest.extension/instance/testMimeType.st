@@ -1,4 +1,4 @@
-tests
+*ston-pharo-core
 testMimeType
 	self
 		assert: (self serialize: ZnMimeType applicationJson)

@@ -1,12 +1,10 @@
 {
 	"class" : {
-		"fastReadFromFileNamed:" : " 5/7/2020 21:09:59",
-		"fastWrite:toFileNamed:" : " 5/7/2020 21:09:59",
-		"readFromFileNamed:" : " 5/7/2020 21:09:59",
-		"write:toFileNamed:" : " 5/7/2020 21:09:59" },
+		"readFromFileNamed:" : "5/7/2020 21:09:59",
+		"write:toFileNamed:" : "5/7/2020 21:09:59" },
 	"instance" : {
-		"testFromString" : " 5/7/2020 21:09:59",
-		"testFromStringWithComments" : " 5/7/2020 21:09:59",
-		"testPrettyPrinting" : " 5/7/2020 21:09:59",
-		"testRoomExitCycles" : " 5/7/2020 21:09:59",
-		"testToString" : " 5/7/2020 21:09:59" } }
+		"testFromString" : "5/7/2020 21:09:59",
+		"testFromStringWithComments" : "5/7/2020 21:09:59",
+		"testPrettyPrinting" : "5/7/2020 21:09:59",
+		"testRoomExitCycles" : "5/7/2020 21:09:59",
+		"testToString" : "5/7/2020 21:09:59" } }

@@ -1,4 +1,4 @@
-utilities
+*ston-pharo-core
 fastWrite: object toFileNamed: path
 	^ path asFileReference
 		writeStreamDo: [ :fileStream | 

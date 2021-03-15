@@ -1,4 +1,4 @@
-tests
+*ston-pharo-core
 testFileSystemSupport
 	| fileReferences fileLocators |
 	fileReferences := STON listClass withAll: { 
